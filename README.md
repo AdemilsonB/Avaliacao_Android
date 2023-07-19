@@ -12,7 +12,7 @@ Também há uma tela de detalhes para exibir as informações completas de um ca
 - Java;<br>
 - SQLite;<br>
 - Android Studio;<br>
-- Biblioteca Room, RecyclerView e Material Design;<br>
+- Biblioteca Room, RecyclerView e Material Design;<br><br>
 
 O projeto é desenvolvido em Java, utilizando a plataforma Android para a criação do aplicativo.<br>
 A biblioteca Room é utilizada para implementar o banco de dados local, permitindo a persistência dos dados dos carros.<br>
