@@ -1,6 +1,6 @@
 # Projeto Catálogo de Carros com Java
 <h3>Aplicação criada com Java durante o ano de 2022.<br>
-Desenvolvimento completo Android, com padrão MVVM (Model-View-ViewModel) para separar as responsabilidades da lógica de negócios e da interface do usuário, e a biblioteca Room para facilitar o acesso e a persistência dos dados do aplicativo.</h3>
+Desenvolvimento Android completo, com padrão MVVM (Model-View-ViewModel) para separar as responsabilidades da lógica de negócios e da interface do usuário, e a biblioteca Room para facilitar o acesso e a persistência dos dados do aplicativo.</h3>
 
 <h2>Funcionalidades:</h2>
 O projeto consiste em um aplicativo de gerenciamento de carros, permitindo ao usuário cadastrar, editar, excluir e visualizar detalhes de carros.<br>
