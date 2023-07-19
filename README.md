@@ -1,12 +1,25 @@
-# Avaliacao_Android
-<h3>O projeto é desenvolvido em Java, utilizando a plataforma Android para a criação do aplicativo.<br>
+# Projeto Catálogo de Carros com Java
+<h3>Aplicação criada com Java durante o ano de 2022.<br>
+Desenvolvimento completo Android, com padrão MVVM (Model-View-ViewModel) para separar as responsabilidades da lógica de negócios e da interface do usuário, e a biblioteca Room para facilitar o acesso e a persistência dos dados do aplicativo.</h3>
+
+<h2>Funcionalidades:</h2>
+O projeto consiste em um aplicativo de gerenciamento de carros, permitindo ao usuário cadastrar, editar, excluir e visualizar detalhes de carros.<br>
+O aplicativo exibe uma lista de carros cadastrados e permite ao usuário adicionar novos carros usando um formulário com os campos de marca, modelo, combustível e ano.<br>
+O usuário pode editar os detalhes de um carro existente clicando no ícone de edição e pode excluir um carro selecionado após a confirmação de exclusão em uma caixa de diálogo.<br>
+Também há uma tela de detalhes para exibir as informações completas de um carro selecionado.
+
+<h2>Tecnologias Utilizadas:</h2>
+- Java;<br>
+- SQLite;<br>
+- Android Studio;<br>
+- Biblioteca Room, RecyclerView e Material Design;<br>
+
+O projeto é desenvolvido em Java, utilizando a plataforma Android para a criação do aplicativo.<br>
 A biblioteca Room é utilizada para implementar o banco de dados local, permitindo a persistência dos dados dos carros.<br>
 O RecyclerView é utilizado para exibir a lista de carros de forma eficiente e com bom desempenho.<br>
-O aplicativo faz uso de recursos do Material Design, incluindo botões flutuantes e ícones de acordo com as diretrizes do Material Design.</h3>
+O aplicativo faz uso de recursos do Material Design, incluindo botões flutuantes e ícones de acordo com as diretrizes do Material Design.
+
 <h2>Estrutura do Projeto:</h2>
-
-
-
 <strong>Controllers:</strong><br> Os controladores ou activities são responsáveis por gerenciar a lógica do aplicativo e interagir com a interface do usuário. Eles recebem as interações do usuário e enviam solicitações para os modelos e o banco de dados.<br>
 
 <strong>Models:</strong><br> Os modelos representam a estrutura dos dados do aplicativo. No projeto, a classe Carro é um exemplo de modelo, que possui atributos como marca, modelo, combustível e ano.<br>
